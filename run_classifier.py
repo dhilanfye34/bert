@@ -1,3 +1,6 @@
+# Script to fine-tune BERT on text classification tasks. 
+# Feed it  data, and it’ll help BERT learn how to categorize text like if it's a positive or negative review.
+
 # coding=utf-8
 # Copyright 2018 The Google AI Language Team Authors.
 #

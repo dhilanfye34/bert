@@ -1,3 +1,5 @@
+# Another test file, this one checks the optimization functions to make sure they’re doing their job during training.
+
 # coding=utf-8
 # Copyright 2018 The Google AI Language Team Authors.
 #

@@ -1,3 +1,6 @@
+# This one is used to make the data that BERT needs for its pre-training. 
+# Basically, it takes raw text, splits it up, and gets it ready for BERT to learn from.
+
 # coding=utf-8
 # Copyright 2018 The Google AI Language Team Authors.
 #

@@ -1,3 +1,6 @@
+# Runs a text classification task using a BERT model that’s already on TensorFlow Hub. 
+# Easier than starting from scratch since the model is pre-trained.
+
 # coding=utf-8
 # Copyright 2018 The Google AI Language Team Authors.
 #

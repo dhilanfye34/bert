@@ -1,3 +1,6 @@
+# Tests the modeling code to make sure everything works as it should. 
+# Just checking that the BERT model is set up right.
+
 # coding=utf-8
 # Copyright 2018 The Google AI Language Team Authors.
 #

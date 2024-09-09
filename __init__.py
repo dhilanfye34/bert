@@ -1,3 +1,5 @@
+#Just makes this directory a package so you can import stuff from it. Not much else going on here.
+
 # coding=utf-8
 # Copyright 2018 The Google AI Language Team Authors.
 #

@@ -1,3 +1,6 @@
+#The big one. This has the code that actually defines the BERT model, how it processes stuff, etc. 
+# Basically the heart of BERT.
+
 # coding=utf-8
 # Copyright 2018 The Google AI Language Team Authors.
 #
@@ -984,3 +987,4 @@ def assert_rank(tensor, expected_rank, name=None):
         "For the tensor `%s` in scope `%s`, the actual rank "
         "`%d` (shape = %s) is not equal to the expected rank `%s`" %
         (name, scope_name, actual_rank, str(tensor.shape), str(expected_rank)))
+        

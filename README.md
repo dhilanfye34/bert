@@ -1,3 +1,5 @@
+# Main info file. Tells you what BERT is, how to set it up, and how to run the different scripts. 
+
 # BERT
 
 **\*\*\*\*\* New March 11th, 2020: Smaller BERT Models \*\*\*\*\***

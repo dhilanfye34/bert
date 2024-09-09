@@ -1,3 +1,7 @@
+# Handles breaking down raw text into tokens that BERT can actually work with. 
+# Super important because BERT can’t understand text until it’s tokenized.
+
+
 # coding=utf-8
 # Copyright 2018 The Google AI Language Team Authors.
 #

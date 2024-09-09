@@ -1,3 +1,5 @@
+# Talks about how BERT handles different languages. Probably just some notes or instructions.
+
 ## Models
 
 There are two multilingual models currently available. We do not plan to release

@@ -1,3 +1,6 @@
+# Contains the actual code for optimizing the BERT model, like adjusting weights during training. 
+# Super important for making sure the model learns well.
+
 # coding=utf-8
 # Copyright 2018 The Google AI Language Team Authors.
 #

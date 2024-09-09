@@ -1,3 +1,6 @@
+# Script for fine-tuning BERT on the SQuAD dataset, which is all about answering questions based on a chunk of text. 
+# Useful for training BERT to be good at reading comprehension.
+
 # coding=utf-8
 # Copyright 2018 The Google AI Language Team Authors.
 #

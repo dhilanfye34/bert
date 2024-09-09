@@ -1,3 +1,5 @@
+# This is just the rules for how people should contribute to the project. Like how to submit changes or report bugs.
+
 # How to Contribute
 
 BERT needs to maintain permanent compatibility with the pre-trained model files,

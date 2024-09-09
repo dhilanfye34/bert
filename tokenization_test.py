@@ -1,3 +1,5 @@
+# Tests the tokenization process to make sure it’s breaking down text into tokens correctly before feeding it into BERT.
+
 # coding=utf-8
 # Copyright 2018 The Google AI Language Team Authors.
 #

@@ -1,3 +1,6 @@
+# Used to pre-train BERT from scratch. Need a big text dataset for this. 
+# It runs tasks like masked language modeling to get BERT ready before tuning it for specific tasks.
+
 # coding=utf-8
 # Copyright 2018 The Google AI Language Team Authors.
 #

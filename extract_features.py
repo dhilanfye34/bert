@@ -1,3 +1,6 @@
+#Runs BERT on text to pull out features, like embeddings or whatever you need for other tasks. 
+# Good for using BERT as a tool in other models.
+
 # coding=utf-8
 # Copyright 2018 The Google AI Language Team Authors.
 #
