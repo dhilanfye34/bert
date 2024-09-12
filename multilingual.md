@@ -1,4 +1,4 @@
-# Talks about how BERT handles different languages. Probably just some notes or instructions.
+# Talks about how BERT handles different languages. Just some notes and instructions.
 
 ## Models
 
